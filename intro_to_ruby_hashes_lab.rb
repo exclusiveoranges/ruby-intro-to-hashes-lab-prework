@@ -39,7 +39,7 @@ def monopoly_with_fourth_tier
 			 {mortgage_value: '$200'},
 			 b_and_o_railroad:
 			 {mortgage_value: '$400'},
-			 shortline: 
+			 shortline:
 			 {mortgage_value: '$800'}},
 
 			rent_in_dollars:
@@ -52,6 +52,4 @@ def monopoly_with_fourth_tier
 				four_pieces_owned:
 				200}}
 	}
-
-
 end
